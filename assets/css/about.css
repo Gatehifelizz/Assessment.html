@@ -1,0 +1,21 @@
+body{
+    font-family: "DejaVu Sans";
+    background-color: bisque;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 15px;
+    padding: 20px;
+    justify-content: center;
+    align-items:center;
+    padding-top: 20px;
+}
+p{
+    color: #30a62c;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+}
+h4{
+    font-weight: bold;
+    color: olivedrab;
+}
